@@ -3,5 +3,5 @@ This repo stores the common FSBL, SSBL(u-boot), Linux kernel(uImage) and root fi
 The boot loaders are board-dedicated, while the kernel image and the rootfs are applicable to all ONetSwitch boards.  
 
 For more information, please visit following wiki pages.
-* [Wiki Home](https://github.com/meshsr/wiki/wiki)  
+* [ONetSwitch Wiki Home](https://github.com/meshsr/wiki/wiki)  
 * [Workflow](https://github.com/MeshSr/wiki/wiki/Guide-Workflow) to show how to use the pre-built images.
